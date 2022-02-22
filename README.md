@@ -4,7 +4,7 @@
 
 ### About me
 
-<p>iOS Developer @ IBM</p>
+<p>iOS Developer @ GRiT Solutions 🇵🇹</p>
 
 
 ### Languages and tools
