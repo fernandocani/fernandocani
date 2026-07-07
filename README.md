@@ -1,5 +1,17 @@
 # Hi, I'm Fernando :man_technologist:
-![Fernando GitHub Stats](https://github-stats-extended.vercel.app/api?username=fernandocani&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=ff69b4&bg_color=151515)
+<!--![Fernando GitHub Stats](https://github-stats-extended.vercel.app/api?username=fernandocani&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=ff69b4&bg_color=151515&hide=stars#gh-light-mode-only)-->
+<!--![Fernando GitHub Stats](https://github-stats-extended.vercel.app/api?username=fernandocani&hide=stars#gh-light-mode-only)-->
+<!--![Fernando GitHub Stats](https://github-stats-extended.vercel.app/api?username=fernandocani&theme=radica#gh-dark-mode-only)-->
+![Fernando GitHub Stats](https://github-stats-extended.vercel.app/api?username=fernandocani&theme=radical)
+<!--&hide=stars,commits,prs,issues,contribs-->
+<!--&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented-->
+<!--&show_icons=true-->
+<!--&commits_year=2020-->
+<!--&theme=radical [dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula]-->
+<!--#gh-dark-mode-only-->
+<!--#gh-light-mode-only-->
+<!---->
+<!---->
 
 </br>
 
@@ -21,11 +33,17 @@
 
 ### Social media:
 <a target="_blank" href="https://www.linkedin.com/in/fernandocani/">
-  <img align="left" alt="LinkdeIN" height="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/linkedin-white-icon.svg">
+    <img align="left" alt="Go to LinkedIn page" src="./icons/linkedin-black-icon.svg" height="40">
+  </picture>
 </a>
 
 <a target="_blank" href="https://x.com/fernandocani">
-  <img align="left" alt="X (old Twitter)" height="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.25.0/icons/x.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/x-white-icon.svg">
+    <img align="left" alt="Go to `X` (old Twitter) page" src="./icons/x-black-icon.svg" height="40"/>
+  </picture>
 </a>
 
 </br>
@@ -36,4 +54,5 @@
 
 </br>
 
+### Contribution:
 ![Snake animation](https://github.com/fernandocani/fernandocani/blob/output/github-contribution-grid-snake.svg)
