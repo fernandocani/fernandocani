@@ -1,6 +1,6 @@
 # Hi, I'm Fernando :man_technologist:
 
-![Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandocani&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=ff69b4&bg_color=151515)
+![Fernando GitHub Stats](https://github-stats-extended.vercel.app/api?username=fernandocani&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=ff69b4&bg_color=151515)
 
 ### About me
 
@@ -21,8 +21,8 @@ https://apps.apple.com/br/developer/fernando-cani/id506587024
   <img align="left" alt="LinkdeIN" height="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a target="_blank" href="https://twitter.com/fernandocani">
-  <img align="left" alt="Twitter" height="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a target="_blank" href="https://x.com/fernandocani">
+  <img align="left" alt="X (old Twitter)" height="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.25.0/icons/x.svg" />
 </a>
 
 </br>
