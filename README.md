@@ -1,17 +1,15 @@
 # Hi, I'm Fernando :man_technologist:
 <!--![Fernando GitHub Stats](https://github-stats-extended.vercel.app/api?username=fernandocani&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=ff69b4&bg_color=151515&hide=stars#gh-light-mode-only)-->
-<!--![Fernando GitHub Stats](https://github-stats-extended.vercel.app/api?username=fernandocani&hide=stars#gh-light-mode-only)-->
-<!--![Fernando GitHub Stats](https://github-stats-extended.vercel.app/api?username=fernandocani&theme=radica#gh-dark-mode-only)-->
-![Fernando GitHub Stats](https://github-stats-extended.vercel.app/api?username=fernandocani&theme=radical)
-<!--&hide=stars,commits,prs,issues,contribs-->
-<!--&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented-->
-<!--&show_icons=true-->
-<!--&commits_year=2020-->
-<!--&theme=radical [dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula]-->
-<!--#gh-dark-mode-only-->
-<!--#gh-light-mode-only-->
-<!---->
-<!---->
+<picture>
+  <source
+      srcset="https://github-stats-extended.vercel.app/api?username=fernandocani&show_icons=true&hide=stars&theme=dark"
+      media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api?username=fernandocani&show_icons=true&hide=stars&theme=swift" />
+</picture>
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=fernandocani&repo=fernandocani.github.io)](https://github.com/fernandocani/fernandocani.github.io)
+<!--Documentation on customization: https://github.com/stats-organization/github-stats-extended/blob/master/docs/advanced_documentation.md -->
 
 </br>
 
